@@ -4,7 +4,7 @@ This repository contains all of the resources, code, and tables made in Pacific 
 
 ## Highlights
 
-- [Final Report]()
+- [Final Report](https://github.com/acolum/SOA-Data-Analysis-Contest/blob/master/Final%20Report%20-%20Public.docx?raw=true)
 
 - [R Shiny app (displaying the analyses of "other" plan types)](https://acolumbus.shinyapps.io/SOA-Contest-Dashboard/)
 
