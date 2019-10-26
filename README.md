@@ -1,6 +1,6 @@
 # SOA Data Analysis Contest
 
-This repository contains all of the resources, code, and tables made in Pacific Life's first place entry for the Society of Actuaries 2018 Data Analysis Contest. 
+This repository contains all of the resources, code, and tables made in our first place entry for the Society of Actuaries 2018 Data Analysis Contest. 
 
 ## Highlights
 
